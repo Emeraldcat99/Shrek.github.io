@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'minecraft_font';
+    src: url('minecraft/minecraft_font.woff2') format('woff2');
+  }
+  h1 {
+    font-family: 'minecraft_font' !important;
+}
+#shrexy {
+ color: olive;
+  width: 100%;
+  text-align: center;
+  font-size: 300%;
+}
+#boarbot {
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+}
+#container {
+    margin: auto;
+    display: block;
+    border: 2px black;
+}
+#donkey {
+    margin-left: 1px;
+    display: block;
+    
+}
